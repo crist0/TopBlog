@@ -13,3 +13,10 @@ body{
   font-family: sans-serif;
   color:#000;
 }
+.cabecera{
+  background-color:#525252;
+  color:#f1f1f1;
+  padding:1em;
+  border:5px;
+  margin-bottom:10px;
+}
