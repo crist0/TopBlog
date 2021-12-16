@@ -2,3 +2,10 @@ body{
   text-align:center;
   color:#303;
 }
+.container{
+  width: 70vw;
+  border:1px solid #333;
+  border-radius:5px;
+  padding:1em;
+  margin:20px auto;
+}
