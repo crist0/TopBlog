@@ -20,3 +20,9 @@ body{
   border:5px;
   margin-bottom:10px;
 }
+.footer{
+  background-color:#000;
+  color:#fff;
+  padding:10px;
+  text-align:center;
+}
